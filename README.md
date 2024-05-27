@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hello, I'm Lucas Cunha
+
+ - 🔭 I’m currently working on a pet project of mine
+ - 🌱 I’m currently learning about API consumption
+ - 😄 Pronouns: He/Him
+ - ⚡ Fun fact: I learn about cinematography, creative writing and storytelling in my spare time.
 
 <!--
 **LucasMCunha/LucasMCunha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +19,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
